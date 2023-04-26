@@ -1,0 +1,16 @@
+{
+    "name": "zdelas.rcv.editor",
+    "rootNamespace": "",
+    "references": [
+        "zdelas.rcv"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

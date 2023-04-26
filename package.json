@@ -1,0 +1,24 @@
+{
+    "name": "com.zdelas.rcv",
+    "version": "1.0.0",
+    "displayName": "RCV (Required Components Verifier)",
+    "description": "RCV is a package that helps developers create games using the Entity-Component architecture by eliminating the risk of hidden dependencies.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/zvonimir-delas/rcv/README.MD",
+    "changelogUrl": "https://github.com/zvonimir-delas/rcv/README.MD",
+    "licensesUrl": "https://github.com/zvonimir-delas/rcv/LICENSE.MD",
+    "dependencies": {
+
+    },
+    "keywords": [
+        "entity-component",
+        "required",
+        "components"
+    ],
+    "author": {
+        "name": "Zvony Delas",
+        "email": "zvonimir.delas@gmail.com",
+        "url": "https://github.com/zvonimir-delas/"
+    }
+}
