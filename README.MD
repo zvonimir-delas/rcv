@@ -25,6 +25,10 @@ Add the attribute for each required component to your entity class. Ensure that 
 At any time, use the new RCV button in your Unity Editor menu toolbar to validate that all required components are present. 
 If any are missing, you'll see an error pop-up in the console.
 
+## Installation
+To install, download the ZIP file from the [latest release](https://github.com/zvonimir-delas/rcv/releases/), open the Unity Package Manager and select installation from local file: [Unity guide](https://docs.unity3d.com/Manual/upm-ui-local.html).
+Alternatively, download the source code as a ZIP and follow the same instructions.
+
 ## Example usage
 ### The code:
 ```
