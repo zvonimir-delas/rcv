@@ -31,7 +31,7 @@ Alternatively, download the source code as a ZIP and follow the same instruction
 
 ## Example usage
 ### The code:
-```
+```cs
 using Zdelas.Rcv.Runtime;
 
 [RequiredCustomComponent(typeof(InputHandlerComponent))]
