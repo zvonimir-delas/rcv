@@ -3,9 +3,9 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 using System.Reflection;
-using Zdelas.Rcv.Runtime;
+using ZDelas.Rcv.Runtime;
 
-namespace Zdelas.Rcv.Editor
+namespace ZDelas.Rcv.Editor
 {
     // Actions triggered by menu buttons
     public static class RcvActions

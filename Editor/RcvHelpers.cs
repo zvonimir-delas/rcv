@@ -2,10 +2,10 @@ using System;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using Zdelas.Rcv.Runtime;
+using ZDelas.Rcv.Runtime;
 using System.Collections.Generic;
 
-namespace Zdelas.Rcv.Editor
+namespace ZDelas.Rcv.Editor
 {
     // Static helpers for component validation
     public static class RcvHelpers

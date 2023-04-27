@@ -3,9 +3,9 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 using System.Reflection;
-using Zdelas.Rcv.Runtime;
+using ZDelas.Rcv.Runtime;
 
-namespace Zdelas.Rcv.Editor
+namespace ZDelas.Rcv.Editor
 {
     // Methods that define new entries into the Unity Editor menu
     public class RcvMenuButtons

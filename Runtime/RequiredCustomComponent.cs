@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Zdelas.Rcv.Runtime
+namespace ZDelas.Rcv.Runtime
 {
     // Defines a custom attribute that can be used to mark a class as requiring certain components
     // Example use: [RequiredCustomComponent(typeof(HealthComponent))]

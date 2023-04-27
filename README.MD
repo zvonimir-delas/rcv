@@ -24,7 +24,7 @@ Unity Engine offers no way to systematically check that the dependencies are pre
 
 ### Validation of components with RCV
 The RCV package adds a new class attribute: `RequiredCustomComponent`.  
-Add the attribute for each required component to your entity class. Ensure that the `using Zdelas.Rcv.Runtime;` namespace reference is included at the top of the file.  
+Add the attribute for each required component to your entity class. Ensure that the `using ZDelas.Rcv.Runtime;` namespace reference is included at the top of the file.  
 At any time, use the new RCV button in your Unity Editor menu toolbar to validate that all required components are present.  
 If any are missing, you'll see an error pop-up in the console.  
 Because RCV validates all the required components are present, `gameObject.GetComponent` can be safely used for any component listed using `RequiredCustomComponent`.
@@ -36,7 +36,7 @@ Alternatively, download the source code as a ZIP and follow the same instruction
 ## Example usage
 ### The Player class with several required components
 ```cs
-using Zdelas.Rcv.Runtime;
+using ZDelas.Rcv.Runtime;
 
 [RequiredCustomComponent(typeof(InputHandlerComponent))]
 [RequiredCustomComponent(typeof(CollisionComponent))]
